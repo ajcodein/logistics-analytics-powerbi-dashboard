@@ -65,25 +65,25 @@ This project is an end-to-end Logistics Analytics Dashboard developed using Powe
 
 ## Data Model
 
-![Data Model](Dashboard_Screenshots/model.png)
+![Data Model](logistics_Operations/Dashboard_Screenshots/model.png)
 
 ## Overview Dashboard
 
-![Overview](Dashboard_Screenshots/overview.png)
+![Overview](logistics_Operations/Dashboard_Screenshots/overview.png)
 
 ## Shipment Analysis
 
-![Shipment Analysis](Dashboard_Screenshots/shipment.png)
+![Shipment Analysis](logistics_Operations/Dashboard_Screenshots/shipment.png)
 
 ## Inventory & Warehouse
 
-![Inventory & Warehouse](Dashboard_Screenshots/warehouse.png)
+![Inventory & Warehouse](logistics_Operations/Dashboard_Screenshots/warehouse.png)
 
-![Inventory Details](Dashboard_Screenshots/inventory.png)
+![Inventory](logistics_Operations/Dashboard_Screenshots/inventory.png)
 
 ## Operations Dashboard
 
-![Operations](Dashboard_Screenshots/operations.png)
+![Operations](logistics_Operations/Dashboard_Screenshots/operations.png)
 
 
 
